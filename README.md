@@ -1,1 +1,1 @@
-"# Proyecto_PatternRecognition" 
+# Proyecto_PatternRecognition
