@@ -1,5 +1,4 @@
-Technical report template
+Pattern Recognition - Technical report
 -------------------------
 
-Clone, write, make.
 
