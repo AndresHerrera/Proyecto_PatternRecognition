@@ -1,4 +1,0 @@
-Pattern Recognition - Technical report
--------------------------
-
-
